@@ -1,2 +1,6 @@
-# api-simples-em-node
-Uma API simples e estática criada em node, utilizando express.
+
+Uma API simples criada em nodejs utilizando express.
+Para utilizá-la, clone e execute o comando 
+
+    npm install
+
